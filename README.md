@@ -28,7 +28,7 @@ This creates a gesture-based interaction system that can serve as an alternative
 | Component | Purpose |
 |---|---|
 | ESP32-S2 | Main microcontroller for sensor data acquisition and processing |
-| 6 Flex Sensors | Detect bending movements of the fingers |
+| 6 Flex Sensors | Detect bending movements of the Index, Middle finger and a Thumb |
 | BN-0080 Motion Sensor | Capture hand movement and orientation |
 | Rechargeable Battery | Portable power supply |
 | Charging Module | Battery charging and power management |
