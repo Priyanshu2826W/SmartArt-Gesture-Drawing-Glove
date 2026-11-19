@@ -40,6 +40,7 @@ This creates a gesture-based interaction system that can serve as an alternative
 - **Embedded Programming:** Arduino IDE / C++
 - **Microcontroller:** ESP32-S2
 - **Frontend Development:** React.js
+- **Backend Development:** Node.js
 - **Sensor Integration:** Flex sensor and motion sensor interfacing
 - **Web Interface:** Real-time sensor data visualization
 
